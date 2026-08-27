@@ -1,0 +1,6 @@
+Experiment 20: SwiGLU vs SiTU-GLU
+==================================================
+SwiGLU max abs output: 400.000000
+SiTU-GLU max abs output: 66.397644
+SwiGLU mean abs output: 66.733376
+SiTU-GLU mean abs output: 17.531513
